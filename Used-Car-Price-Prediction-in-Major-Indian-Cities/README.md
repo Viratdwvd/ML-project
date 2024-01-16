@@ -60,3 +60,4 @@ Run the app.py in the anaconda prompt using `streamlit run app.py` then open the
 <p align="center">
 <img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Output.png?raw=true" />
 </p>.
+Thankyou
