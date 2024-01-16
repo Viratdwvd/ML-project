@@ -3,10 +3,10 @@ import pandas as pd
 import pickle
 import base64
 # Load trained model and label encoders
-with open(r'C:\Users\User\Downloads\predictive_model.pkl', 'rb') as f:
+with open(r'C:\Users\Virat Dwivedi\Downloads\predictive_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open(r"C:\Users\User\Downloads\predictive_label.pkl", 'rb') as f:
+with open(r"C:\Users\Virat Dwivedi\Downloads\predictive_label.pkl", 'rb') as f:
     label_encoders = pickle.load(f)
 
 # Define numerical and categorical column names
@@ -63,7 +63,7 @@ def add_bg_from_local(image_file):
     )
 
 # Add background image
-add_bg_from_local(r"C:\Users\User\Downloads\background1.png")
+add_bg_from_local(r"C:\Users\Virat Dwivedi\Pictures\peakpx.jpg")
 # Define Streamlit UI
 def main():
     st.title("Used Car Price Prediction")
