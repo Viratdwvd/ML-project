@@ -22,7 +22,6 @@ In this Project, we are going to predict the Price of Used Cars using various fe
 ## 1. Creating a new Jupyter Notebook
 To work on this project First we have created a new jupyter notebook file to implement all the codes in python for the project. We have started the notebook with the pre installed libraries.
 <p align="center">
-<img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/jupyter.png?raw=true" />
 </p>
 
 <a name="step2"></a>
@@ -35,7 +34,6 @@ In this step we haev used the selenium web driver to navigate through the websit
 In this step we have stored the scraped data in a Data Frame and then we have converted that to a csv file.
 
 <p align="center">
-<img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Data.png?raw=true" />
 </p>
 <a name="datasetvisualization"></a>
 
@@ -55,7 +53,6 @@ I recommend to install the following packages
 pip install streamlit
 Run the app.py in the anaconda prompt using `streamlit run app.py` then open the web-address displayed below.
 <p align="center">
-<img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Streamlit.png?raw=true" />
 </p>
 <p align="center">
 <img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Output.png?raw=true" />
